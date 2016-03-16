@@ -1,0 +1,409 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AZ Shortcodes\n"
+"POT-Creation-Date: 2013-12-01 11:06+0100\n"
+"PO-Revision-Date: 2013-12-01 11:06+0100\n"
+"Last-Translator: \n"
+"Language-Team: Alessio Atzeni <info@alessioatzeni.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../tinymce/tinymce-class.php:49
+msgid "Blank Divider"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:51
+msgid "Height Value"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:51
+msgid "Height Value in pixel. Enter only number value."
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:52 ../tinymce/tinymce-class.php:64
+#: ../tinymce/tinymce-class.php:109 ../tinymce/tinymce-class.php:190
+#: ../tinymce/tinymce-class.php:204 ../tinymce/tinymce-class.php:519
+#: ../tinymce/tinymce-class.php:573 ../tinymce/tinymce-class.php:583
+#: ../tinymce/tinymce-class.php:594 ../tinymce/tinymce-class.php:607
+msgid "Class"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:52 ../tinymce/tinymce-class.php:64
+#: ../tinymce/tinymce-class.php:109 ../tinymce/tinymce-class.php:190
+#: ../tinymce/tinymce-class.php:204 ../tinymce/tinymce-class.php:519
+#: ../tinymce/tinymce-class.php:573 ../tinymce/tinymce-class.php:583
+#: ../tinymce/tinymce-class.php:594 ../tinymce/tinymce-class.php:607
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:59
+msgid "Divider"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:61
+msgid "Divider Style"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:61
+msgid "Choose between the two available divider styles."
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:62
+msgid "Margin Top Value"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:62
+msgid "Margin Top Value in pixel. Enter only number value."
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:63
+msgid "Margin Bottom Value"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:63
+msgid "Margin Bottom Value in pixel. Enter only number value."
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:71
+msgid "Accordion Section"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:80
+msgid "Toggle Section"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:89
+msgid "Tab Section"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:98
+msgid "Testimonial Section"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:107
+msgid "Alert Box"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:112
+msgid "Type"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:127
+msgid "Tooltip"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:131
+msgid "Position"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:132
+msgid "Select the position of the tooltip."
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:142
+msgid "Text"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:143
+msgid "This text appear inside the tooltip."
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:151
+msgid "Highlight"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:155 ../tinymce/tinymce-class.php:171
+msgid "Mode"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:167
+msgid "Dropcap"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:183
+msgid "Lightbox Image"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:185 ../tinymce/tinymce-class.php:199
+msgid "Image"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:185 ../tinymce/tinymce-class.php:186
+#: ../tinymce/tinymce-class.php:199
+msgid "Select image from media library."
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:186
+msgid "Different Image PopUp"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:187 ../tinymce/tinymce-class.php:200
+msgid "Thumbnail Width"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:187 ../tinymce/tinymce-class.php:200
+msgid ""
+"Choose a width for your thumbnail. It will be automatically cropped and "
+"resized."
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:188 ../tinymce/tinymce-class.php:202
+msgid "Title"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:188 ../tinymce/tinymce-class.php:202
+msgid "Insert a Title of your Image."
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:189 ../tinymce/tinymce-class.php:203
+msgid "Gallery Name"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:189 ../tinymce/tinymce-class.php:203
+msgid "If you want can insert a name of your gallery here."
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:197
+msgid "Lightbox Video"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:201
+msgid "Link URL"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:201
+msgid "Insert the URL for video (https://vimeo.com/18439821)."
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:211
+msgid "Button"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:213
+msgid "Button Label"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:213
+msgid "This is the text that appears on your button."
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:214
+msgid "Button Link"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:214
+msgid "Where should your button link to?"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:217
+msgid "Button Link Target"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:225
+msgid "Button Size"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:235
+msgid "Custom Button Color?"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:236
+msgid "Insert your Custom Color - Example: #CCCCCC"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:240
+msgid "Inverted Color?"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:526
+msgid "Social Buttons Sharing"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:530
+msgid "Facebook"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:531 ../tinymce/tinymce-class.php:536
+#: ../tinymce/tinymce-class.php:541 ../tinymce/tinymce-class.php:546
+msgid "Check to enable"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:535
+msgid "Twitter"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:540
+msgid "Google Plus"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:545
+msgid "Pinterest"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:571
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:574
+msgid "Revolution Slider Alias"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:574
+msgid "Select your Revolution Slider."
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:581
+msgid "Video Embed"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:584
+msgid "URL"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:585
+msgid ""
+"Working examples, in case you want to use an external service (Video Embed "
+"Shortcode):<br/><br/>https://vimeo.com/charlex/shapeshifter <br/>http://www."
+"youtube.com/watch?v=CZIt20emgLY"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:592
+msgid "Video Self Hosted"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:595
+msgid "WEBM File URL"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:595
+msgid "Upload a WEBM File."
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:596
+msgid "MP4 File URL"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:596
+msgid "Upload a MP4 File."
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:597
+msgid "OGV File URL"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:597
+msgid "Upload a OGV File."
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:598
+msgid "Preview Image"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:598
+msgid "If you wish can upload a poster image."
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:605
+msgid "Audio Self Hosted"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:608
+msgid "MP3 File URL"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:608
+msgid "Upload a MP3 File."
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:626
+msgid "Choose your Shortcode..."
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:655
+msgid "Content: "
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:663
+msgid "Add Shortcode"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:750
+msgid "Accordion Title: "
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:752
+msgid "Accordion Content: "
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:756
+msgid "Remove Accordion"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:756
+msgid "Add Accordion"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:764
+msgid "Toggle Title: "
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:766
+msgid "Toggle Content: "
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:770
+msgid "Remove Toggle"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:770
+msgid "Add Toggle"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:778
+msgid "Tab Title: "
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:780
+msgid "Tab Content: "
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:784
+msgid "Remove Tab"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:784
+msgid "Add Tab"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:792
+msgid "Testimonial Title: "
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:794
+msgid "Testimonial Content: "
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:798
+msgid "Remove Testimonial"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:798
+msgid "Add Testimonial"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:810 ../tinymce/tinymce-class.php:828
+msgid "Upload"
+msgstr ""
+
+#: ../tinymce/tinymce-class.php:811 ../tinymce/tinymce-class.php:829
+msgid "Remove Upload"
+msgstr ""

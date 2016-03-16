@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AZ Custom Post Type Plugin\n"
+"POT-Creation-Date: 2013-11-13 11:17+0100\n"
+"PO-Revision-Date: 2013-11-13 11:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: Alessio Atzeni <info@alessioatzeni.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../az-custom-post-type.php:24 ../az-custom-post-type.php:27
+msgid "Team"
+msgstr ""
+
+#: ../az-custom-post-type.php:25
+msgid "People Item"
+msgstr ""
+
+#: ../az-custom-post-type.php:26
+msgid "Search People Item"
+msgstr ""
+
+#: ../az-custom-post-type.php:28
+msgid "Parent People Item"
+msgstr ""
+
+#: ../az-custom-post-type.php:29
+msgid "Edit People Item"
+msgstr ""
+
+#: ../az-custom-post-type.php:30
+msgid "Update People Item"
+msgstr ""
+
+#: ../az-custom-post-type.php:31
+msgid "Add New People Item"
+msgstr ""
+
+#: ../az-custom-post-type.php:42
+msgid "Person"
+msgstr ""
+
+#: ../az-custom-post-type.php:55 ../az-custom-post-type.php:63
+msgid "Disciplines"
+msgstr ""
+
+#: ../az-custom-post-type.php:56
+msgid "Discipline"
+msgstr ""
+
+#: ../az-custom-post-type.php:57
+msgid "Search Discipline"
+msgstr ""
+
+#: ../az-custom-post-type.php:58
+msgid "All Discipline"
+msgstr ""
+
+#: ../az-custom-post-type.php:59
+msgid "Parent Discipline"
+msgstr ""
+
+#: ../az-custom-post-type.php:60
+msgid "Edit Discipline"
+msgstr ""
+
+#: ../az-custom-post-type.php:61
+msgid "Update Discipline"
+msgstr ""
+
+#: ../az-custom-post-type.php:62
+msgid "Add New Discipline"
+msgstr ""
+
+#: ../az-custom-post-type.php:76 ../az-custom-post-type.php:85
+msgid "Attributes"
+msgstr ""
+
+#: ../az-custom-post-type.php:77
+msgid "Attribute"
+msgstr ""
+
+#: ../az-custom-post-type.php:78
+msgid "Search Attributes"
+msgstr ""
+
+#: ../az-custom-post-type.php:79
+msgid "All Attributes"
+msgstr ""
+
+#: ../az-custom-post-type.php:80
+msgid "Parent Attribute"
+msgstr ""
+
+#: ../az-custom-post-type.php:81
+msgid "Edit Attribute"
+msgstr ""
+
+#: ../az-custom-post-type.php:82
+msgid "Update Attribute"
+msgstr ""
+
+#: ../az-custom-post-type.php:83
+msgid "Add New Attribute"
+msgstr ""
+
+#: ../az-custom-post-type.php:84
+msgid "New Attribute"
+msgstr ""
+
+#: ../az-custom-post-type.php:123 ../az-custom-post-type.php:126
+msgid "Portfolio"
+msgstr ""
+
+#: ../az-custom-post-type.php:124
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../az-custom-post-type.php:125
+msgid "Search Portfolio Item"
+msgstr ""
+
+#: ../az-custom-post-type.php:127
+msgid "Parent Portfolio Item"
+msgstr ""
+
+#: ../az-custom-post-type.php:128
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../az-custom-post-type.php:129
+msgid "Update Portfolio Item"
+msgstr ""
+
+#: ../az-custom-post-type.php:130
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../az-custom-post-type.php:141
+msgid "Project"
+msgstr ""
+
+#: ../az-custom-post-type.php:154 ../az-custom-post-type.php:162
+msgid "Project Categories"
+msgstr ""
+
+#: ../az-custom-post-type.php:155
+msgid "Project Category"
+msgstr ""
+
+#: ../az-custom-post-type.php:156
+msgid "Search Project Categories"
+msgstr ""
+
+#: ../az-custom-post-type.php:157
+msgid "All Project Categories"
+msgstr ""
+
+#: ../az-custom-post-type.php:158
+msgid "Parent Project Category"
+msgstr ""
+
+#: ../az-custom-post-type.php:159
+msgid "Edit Project Category"
+msgstr ""
+
+#: ../az-custom-post-type.php:160
+msgid "Update Project Category"
+msgstr ""
+
+#: ../az-custom-post-type.php:161
+msgid "Add New Project Category"
+msgstr ""
+
+#: ../az-custom-post-type.php:175 ../az-custom-post-type.php:184
+msgid "Project Attributes"
+msgstr ""
+
+#: ../az-custom-post-type.php:176
+msgid "Project Attribute"
+msgstr ""
+
+#: ../az-custom-post-type.php:177
+msgid "Search Project Attributes"
+msgstr ""
+
+#: ../az-custom-post-type.php:178
+msgid "All Project Attributes"
+msgstr ""
+
+#: ../az-custom-post-type.php:179
+msgid "Parent Project Attribute"
+msgstr ""
+
+#: ../az-custom-post-type.php:180
+msgid "Edit Project Attribute"
+msgstr ""
+
+#: ../az-custom-post-type.php:181
+msgid "Update Project Attribute"
+msgstr ""
+
+#: ../az-custom-post-type.php:182
+msgid "Add New Project Attribute"
+msgstr ""
+
+#: ../az-custom-post-type.php:183
+msgid "New Project Attribute"
+msgstr ""
+
+#: ../single-portfolio.php:30 ../single-portfolio.php:42 ../single-team.php:30
+#: ../single-team.php:42
+msgid "Prev"
+msgstr ""
+
+#: ../single-portfolio.php:31 ../single-portfolio.php:43 ../single-team.php:31
+#: ../single-team.php:43
+msgid "Next"
+msgstr ""
